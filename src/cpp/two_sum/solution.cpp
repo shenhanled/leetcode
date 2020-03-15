@@ -1,12 +1,12 @@
-//
-// Created by shenhan on 2018/4/21.
-//
-
 #include "solution.h"
 
 #include <unordered_map>
 
 vector<int> Solution::twoSum(vector<int>& nums, int target) {
+    return two_sum_map(nums, target);
+}
+
+vector<int> Solution::two_sum_map(vector<int>& nums, int target) {
     std::unordered_map<int, int> num_index_map;
     std::vector<int> results;
 
