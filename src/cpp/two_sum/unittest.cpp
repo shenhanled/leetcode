@@ -1,7 +1,3 @@
-//
-// Created by shenhan on 2018/4/23.
-//
-
 #include "gtest/gtest.h"
 
 #include "solution.h"

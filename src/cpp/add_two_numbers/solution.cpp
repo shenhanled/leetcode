@@ -1,14 +1,14 @@
-//
-// Created by shenhan on 2018/4/24.
-//
+#include "solution.h"
 
 #include <iostream>
 
-#include "solution.h"
-
 using namespace std;
 
-ListNode* Solution::addTwoNumbers(ListNode *l1, ListNode *l2) {
+ListNode* Solution::addTwoNumbers(ListNode* l1, ListNode* l2) {
+    return add_two_numbers(l1, l2);
+}
+
+ListNode* Solution::add_two_numbers(ListNode* l1, ListNode* l2) {
     ListNode* head = nullptr;
     ListNode* p = nullptr;
     int carry = 0;
@@ -33,7 +33,6 @@ ListNode* Solution::addTwoNumbers(ListNode *l1, ListNode *l2) {
             carry = 0;
         }
 
-        std::cout<<sum<<std::endl;
         if (head == nullptr) {
             head = new ListNode(sum);
             p = head;
