@@ -17,6 +17,9 @@ TEST(Solution, LongestSubstringWithoutRepeatingCharacters) {
     EXPECT_EQ(3, solution.lengthOfLongestSubstring("abcabcbb"));
     EXPECT_EQ(1, solution.lengthOfLongestSubstring("bbbbb"));
     EXPECT_EQ(3, solution.lengthOfLongestSubstring("pwwkew"));
+    EXPECT_EQ(3, solution.lengthOfLongestSubstring("abcba"));
+    EXPECT_EQ(1, solution.lengthOfLongestSubstring("a"));
+    EXPECT_EQ(0, solution.lengthOfLongestSubstring(""));
 }
 
 int main(int argc, char* argv[]) {
