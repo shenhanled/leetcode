@@ -15,3 +15,5 @@ leetcode
 |   44 | Wildcard Matching | Hard |
 |  121 | Best Time to Buy and Sell Stock | Easy |
 |  122 | Best Time to Buy and Sell Stock II | Easy |
+|  136 | Single Number | Easy |
+|  137 | Single Number II | Medium |

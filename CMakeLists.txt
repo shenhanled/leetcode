@@ -13,6 +13,10 @@ set(PROBLEMS
     two_sum
     # No.0002 Add Two Numbers
     add_two_numbers
+    # No.0003 Longest Substring Without Repeating Characters
+    longest_substring_without_repeating_characters
+    # No.0004 Median of Two Sorted Arrays
+    median_of_two_sorted_arrays
     # No.0005 Longest Palindromic Substring
     longest_palindromic_substring
     # No.0010 Regular Expression Matching
@@ -23,6 +27,10 @@ set(PROBLEMS
     wildcard_matching
     # No.0053 Maximum Subarray
     maximum_subarray
+    # No.0136 Single Number
+    single_number
+    # No.0137 Single Number II
+    single_number_ii
 )
 
 foreach(problem ${PROBLEMS})
