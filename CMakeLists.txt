@@ -31,6 +31,10 @@ set(PROBLEMS
     single_number
     # No.0137 Single Number II
     single_number_ii
+    # No.0260 Single Number III
+    single_number_iii
+    # No.0445 Add Two Numbers II
+    add_two_numbers_ii
 )
 
 foreach(problem ${PROBLEMS})
