@@ -11,8 +11,9 @@ leetcode
 |    6 | ZigZag Conversion | Medium |
 |   10 | Regular Expression Matching | Hard |
 |   32 | Longest Valid Parentheses | Hard |
-|   53 | Maximum Subarray | Easy |
+|   42 | Trapping Rain Water | Hard |
 |   44 | Wildcard Matching | Hard |
+|   53 | Maximum Subarray | Easy |
 |  121 | Best Time to Buy and Sell Stock | Easy |
 |  122 | Best Time to Buy and Sell Stock II | Easy |
 |  136 | Single Number | Easy |

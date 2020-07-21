@@ -23,6 +23,8 @@ set(PROBLEMS
     regular_expression_matching
     # No.0032 Longest Valid Parentheses
     longest_valid_parentheses
+    # No.0042 Trapping Rain Water
+    trapping_rain_water
     # No.0044 Wildcard Matching
     wildcard_matching
     # No.0053 Maximum Subarray
