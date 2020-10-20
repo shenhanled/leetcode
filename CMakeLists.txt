@@ -33,6 +33,8 @@ set(PROBLEMS
     single_number
     # No.0137 Single Number II
     single_number_ii
+    # No.0200 Number of Islands
+    number_of_islands
     # No.0260 Single Number III
     single_number_iii
     # No.0445 Add Two Numbers II

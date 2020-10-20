@@ -18,5 +18,6 @@ leetcode
 |  122 | Best Time to Buy and Sell Stock II | Easy |
 |  136 | Single Number | Easy |
 |  137 | Single Number II | Medium |
+|  200 | Number of Islands | Medium |
 |  260 | Single Number III | Medium |
 |  445 | Add Two Numbers II | Medium |
