@@ -27,6 +27,8 @@ set(PROBLEMS
     trapping_rain_water
     # No.0044 Wildcard Matching
     wildcard_matching
+    # No.0046 Permutations
+    permutations
     # No.0053 Maximum Subarray
     maximum_subarray
     # No.0136 Single Number
