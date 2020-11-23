@@ -23,6 +23,8 @@ set(PROBLEMS
     regular_expression_matching
     # No.0026 Remove Duplicates from Sorted Array
     remove_duplicates_from_sorted_array
+    # No.0027 Remove Element
+    remove_element
     # No.0032 Longest Valid Parentheses
     longest_valid_parentheses
     # No.0042 Trapping Rain Water

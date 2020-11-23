@@ -11,6 +11,7 @@ leetcode
 |    6 | ZigZag Conversion | Medium |
 |   10 | Regular Expression Matching | Hard |
 |   26 | Remove Duplicates from Sorted Array | Easy |
+|   27 | Remove Element | Easy |
 |   32 | Longest Valid Parentheses | Hard |
 |   42 | Trapping Rain Water | Hard |
 |   44 | Wildcard Matching | Hard |
