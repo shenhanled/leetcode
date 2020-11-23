@@ -21,6 +21,8 @@ set(PROBLEMS
     longest_palindromic_substring
     # No.0010 Regular Expression Matching
     regular_expression_matching
+    # No.0026 Remove Duplicates from Sorted Array
+    remove_duplicates_from_sorted_array
     # No.0032 Longest Valid Parentheses
     longest_valid_parentheses
     # No.0042 Trapping Rain Water
@@ -29,6 +31,8 @@ set(PROBLEMS
     wildcard_matching
     # No.0046 Permutations
     permutations
+    # No.0047 Permutations II
+    permutations_ii
     # No.0053 Maximum Subarray
     maximum_subarray
     # No.0136 Single Number

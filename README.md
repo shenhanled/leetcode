@@ -10,10 +10,12 @@ leetcode
 |    5 | Longest Palindromic Substring | Medium |
 |    6 | ZigZag Conversion | Medium |
 |   10 | Regular Expression Matching | Hard |
+|   26 | Remove Duplicates from Sorted Array | Easy |
 |   32 | Longest Valid Parentheses | Hard |
 |   42 | Trapping Rain Water | Hard |
 |   44 | Wildcard Matching | Hard |
 |   46 | Permutations | Medium |
+|   47 | Permutations II | Medium |
 |   53 | Maximum Subarray | Easy |
 |  121 | Best Time to Buy and Sell Stock | Easy |
 |  122 | Best Time to Buy and Sell Stock II | Easy |
