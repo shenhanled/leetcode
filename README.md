@@ -18,6 +18,7 @@ leetcode
 |   46 | Permutations | Medium |
 |   47 | Permutations II | Medium |
 |   53 | Maximum Subarray | Easy |
+|   80 | Remove Duplicates from Sorted Array II | Medium |
 |  121 | Best Time to Buy and Sell Stock | Easy |
 |  122 | Best Time to Buy and Sell Stock II | Easy |
 |  136 | Single Number | Easy |

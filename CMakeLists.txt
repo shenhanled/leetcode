@@ -37,6 +37,8 @@ set(PROBLEMS
     permutations_ii
     # No.0053 Maximum Subarray
     maximum_subarray
+    # No.0080 Remove Duplicates from Sorted Array II
+    remove_duplicates_from_sorted_array_ii
     # No.0136 Single Number
     single_number
     # No.0137 Single Number II

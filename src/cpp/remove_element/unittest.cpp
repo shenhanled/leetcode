@@ -2,7 +2,7 @@
 
 #include "solution.h"
 
-TEST(Solution, RemoveDuplicatesFromSortedArray) {
+TEST(Solution, RemoveElement) {
     Solution solution;
 
     vector<int> nums1 = {3, 2, 2, 3};
